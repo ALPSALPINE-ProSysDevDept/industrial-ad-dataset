@@ -177,7 +177,7 @@ ALAP-DATASETのバージョン情報はこちら：
 
 ```bibtex
 @inproceedings{morita2025anomdsproto,​
-  author = {森田, 賢 and 洸之,川本 and 千葉,大輝 and 伊藤, 稀史 and 堀越, 智久 and 丹羽, 篤士},​
+  author = {森田, 賢 and 川本, 洸之 and 千葉, 大輝 and 伊藤, 稀史 and 堀越, 智久 and 丹羽, 篤士},​
   booktitle = {2025年度画像符号化シンポジウム（PCSJ 2025）／2025年度映像メディア処理シンポジウム（IMPS 2025）},​
   keywords = {ALPSALPINE anomaly-detection dataset},​
   pages = {43-44},​
@@ -216,3 +216,4 @@ ALAP-DATASETのバージョン情報はこちら：
 }
 
 ```
+

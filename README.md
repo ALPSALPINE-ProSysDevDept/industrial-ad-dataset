@@ -4,8 +4,10 @@
 
 * [Introduction](#introduction)
 * [Data description](#data-description)
-* [Reference](#reference)
 * [License](#license)
+* [Version](#version)
+* [Reference](#reference)
+* [Citation](#citation)
 * [Version](#version)
 
 ## Introduction
@@ -154,6 +156,39 @@ ALAP-DATASET/
 | scratch             | 23    |
 | simulated_defect    | 30    |
 
+
+## License
+
+The data is released under the CC BY 4.0 license.
+
+本データセットは[VisA](https://github.com/amazon-science/spot-diff/)、[MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/)を技術的に改変して作成されたものです。
+
+商用利用は不可です。利用時は[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)及びそれぞれのライセンスに準拠してください。
+
+## Version
+
+ALAP-DATASETのバージョン情報はこちら：
+
+[release_notes.md](release_notes.md)
+
+## Citation
+
+本データセット参照時は、下記の Bibtex を引用ください。
+
+```bibtex
+@inproceedings{morita2025anomdsproto,​
+  author = {森田, 賢 and 洸之,川本 and 千葉,大輝 and 伊藤, 稀史 and 堀越, 智久 and 丹羽, 篤士},​
+  booktitle = {2025年度画像符号化シンポジウム（PCSJ 2025）／2025年度映像メディア処理シンポジウム（IMPS 2025）},​
+  keywords = {ALPSALPINE anomaly-detection dataset},​
+  pages = {43-44},​
+  title = {良品学習性能評価を目的とした画像検査データセットの構築と初期検討},​
+  year = 2025,​
+  month = Nov,​
+  publisher = {電子情報通信学会画像工学研究専門委員会},​
+  address = {静岡, 日本}​
+}​
+```
+
 ## Reference
 
 本データセットは、下記のデータセットを参考に作成しました。
@@ -181,16 +216,3 @@ ALAP-DATASET/
 }
 
 ```
-
-## License
-
-The data is released under the CC BY 4.0 license.
-
-本データセットは[VisA](https://github.com/amazon-science/spot-diff/)、[MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/)を技術的に改変して作成されたものです。
-
-商用利用は不可です。利用時は[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)及びそれぞれのライセンスに準拠してください。
-
-## Version
-
-ALAP-DATASETのバージョン情報はこちら：
-[release_notes.md](release_notes.md)
